@@ -1,11 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://XOX-zip.github.io/GitHub-Introduction</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://XOX-zip.github.io/GitHub-Introduction</link></image><lastBuildDate>Tue, 30 Sep 2025 12:04:43 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>🌟 GitHub 功能大全 - 完整指南</title><link>https://XOX-zip.github.io/GitHub-Introduction/post/%F0%9F%8C%9F%20GitHub%20-gong-neng-da-quan-%20-%20-wan-zheng-zhi-nan.html</link><description>&lt;div align='center'&gt;
+<div align="center">
 
 # 🌟 GitHub 功能大全
 
 探索 GitHub 的强大功能，提升开发效率！
 
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -70,65 +69,65 @@ jobs:
 ## 🆕 最新功能亮点
 
 ### 🎉 Copilot 智能编程
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🤖 AI 代码助手&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>🤖 AI 代码助手</b></summary>
 
 - **代码自动补全**: 基于上下文智能建议
 - **多语言支持**: Python, JavaScript, Go 等
 - **代码解释**: 理解复杂代码逻辑
 - **测试生成**: 自动创建单元测试
 
-&lt;/details&gt;
+</details>
 
 ### 🏗️ 高级代码搜索
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🔍 智能代码搜索&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>🔍 智能代码搜索</b></summary>
 
 ```
 # 搜索示例：
 repo:owner/name path:src extension:js functionName
-language:python 'TODO' 
-user:meekdai stars:&gt;100
+language:python "TODO" 
+user:meekdai stars:>100
 ```
 
-&lt;/details&gt;
+</details>
 
 ### 📱 Mobile 体验
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;📲 移动端新功能&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>📲 移动端新功能</b></summary>
 
 - **代码浏览**: 在手机上查看代码
 - **Issue 管理**: 随时随地处理任务
 - **通知中心**: 实时接收重要更新
 - **代码审查**: 移动端 PR 审查
 
-&lt;/details&gt;
+</details>
 
 ---
 
 ## 📈 实用技巧
 
 ### 🚀 效率提升
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;⌨️ 键盘快捷键 (点击展开)&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>⌨️ 键盘快捷键 (点击展开)</b></summary>
 
 - `⌘ + K` - 快速跳转到仓库
 - `⌘ + I` - 快速创建 Issue
 - `G + C` - 跳转到 Code 页面
 - `G + I` - 跳转到 Issues 页面
 
-&lt;/details&gt;
+</details>
 
 ### 🎯 Issue 模板技巧
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;📝 智能模板 (点击展开)&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>📝 智能模板 (点击展开)</b></summary>
 
 ```markdown
 ---
-name: '🐛 Bug 报告'
+name: "🐛 Bug 报告"
 about: 报告发现的 bug
-title: '[BUG] '
-labels: ['bug']
+title: "[BUG] "
+labels: ["bug"]
 ---
 ## 问题描述
 ## 重现步骤
@@ -136,11 +135,11 @@ labels: ['bug']
 ## 环境信息
 ```
 
-&lt;/details&gt;
+</details>
 
 ### 🔄 工作流优化
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;⚡ 团队协作最佳实践&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>⚡ 团队协作最佳实践</b></summary>
 
 **分支策略:**
 - `main` - 稳定版本
@@ -158,7 +157,7 @@ labels: ['bug']
 - [ ] 代码审查
 ```
 
-&lt;/details&gt;
+</details>
 
 ---
 
@@ -184,8 +183,8 @@ labels: ['bug']
 ## 🎮 互动体验
 
 ### 💬 快速投票
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🗳️ 你最常用的 GitHub 功能是？&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>🗳️ 你最常用的 GitHub 功能是？</b></summary>
 
 - [ ] GitHub Actions
 - [ ] GitHub Pages  
@@ -196,11 +195,11 @@ labels: ['bug']
 - [ ] Copilot
 - [ ] Mobile App
 
-&lt;/details&gt;
+</details>
 
 ### 🎯 功能探索
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🔍 试试这些功能！&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>🔍 试试这些功能！</b></summary>
 
 1. **在 Issue 中引用 PR**: `#编号`
 2. **使用任务列表**: `- [ ] 任务`
@@ -208,11 +207,11 @@ labels: ['bug']
 4. **代码建议**: 在 PR 中直接建议代码修改
 5. **模板变量**: 在 Issue 模板中使用 `{{ date }}`
 
-&lt;/details&gt;
+</details>
 
 ### 🏆 功能挑战
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🎯 完成这些任务成为 GitHub 高手&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>🎯 完成这些任务成为 GitHub 高手</b></summary>
 
 **新手任务:**
 - [ ] 创建第一个仓库
@@ -232,15 +231,15 @@ labels: ['bug']
 - [ ] 使用高级安全功能
 - [ ] 贡献开源项目
 
-&lt;/details&gt;
+</details>
 
 ---
 
 ## 🔧 故障排除
 
 ### ❓ 常见问题
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🚫 权限问题解决&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>🚫 权限问题解决</b></summary>
 
 **问题**: Push 权限被拒绝
 **解决**: 
@@ -251,21 +250,21 @@ git remote -v
 git remote set-url origin https://github.com/username/repo.git
 ```
 
-&lt;/details&gt;
+</details>
 
-&lt;details&gt;
-&lt;summary&gt;&lt;b&gt;🔑 SSH 密钥配置&lt;/b&gt;&lt;/summary&gt;
+<details>
+<summary><b>🔑 SSH 密钥配置</b></summary>
 
 ```bash
 # 生成 SSH 密钥
-ssh-keygen -t ed25519 -C 'your_email@example.com'
+ssh-keygen -t ed25519 -C "your_email@example.com"
 # 添加到 ssh-agent
 ssh-add ~/.ssh/id_ed25519
 # 复制公钥到 GitHub
 cat ~/.ssh/id_ed25519.pub
 ```
 
-&lt;/details&gt;
+</details>
 
 ---
 
@@ -286,19 +285,19 @@ cat ~/.ssh/id_ed25519.pub
 
 ---
 
-&lt;div align='center'&gt;
+<div align="center">
 
 ## 🎉 开始探索！
 
 **选择你感兴趣的功能开始体验：**
 
-[![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white)](/../../actions)
-[![Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&amp;logo=github-pages&amp;logoColor=white)](/../../settings/pages)
-[![Projects](https://img.shields.io/badge/GitHub_Projects-FFFFFF?style=for-the-badge&amp;logo=github&amp;logoColor=black)](/../../projects)
-[![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&amp;logo=github-copilot&amp;logoColor=white)](https://github.com/features/copilot)
+[![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](/../../actions)
+[![Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)](/../../settings/pages)
+[![Projects](https://img.shields.io/badge/GitHub_Projects-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](/../../projects)
+[![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
 
 **✨ 让 GitHub 成为你的开发利器！**
 
 *💡 提示：将此 Issue 加入书签，随时查阅 GitHub 功能*
 
-&lt;/div&gt;。</description><guid isPermaLink="true">https://XOX-zip.github.io/GitHub-Introduction/post/%F0%9F%8C%9F%20GitHub%20-gong-neng-da-quan-%20-%20-wan-zheng-zhi-nan.html</guid><pubDate>Tue, 30 Sep 2025 12:03:54 +0000</pubDate></item></channel></rss>
+</div>
