@@ -1,3 +1,11 @@
+---
+name: "🌟 GitHub 功能大全"
+about: GitHub 功能完整指南页面
+title: "🌟 GitHub 功能大全 - 完整指南"
+labels: ["documentation", "help-wanted"]
+assignees: ""
+---
+
 <div align="center">
 
 # 🌟 GitHub 功能大全
