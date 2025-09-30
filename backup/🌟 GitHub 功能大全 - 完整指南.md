@@ -1,11 +1,3 @@
----
-name: "🌟 GitHub 功能大全"
-about: GitHub 功能完整指南页面
-title: "🌟 GitHub 功能大全 - 完整指南"
-labels: ["documentation", "help-wanted"]
-assignees: ""
----
-
 <div align="center">
 
 # 🌟 GitHub 功能大全
@@ -131,14 +123,8 @@ user:meekdai stars:>100
 <summary><b>📝 智能模板 (点击展开)</b></summary>
 
 ```markdown
----
-name: "🐛 Bug 报告"
-about: 报告发现的 bug
-title: "[BUG] "
-labels: ["bug"]
----
 ## 问题描述
-## 重现步骤
+## 重现步骤  
 ## 预期行为
 ## 环境信息
 ```
@@ -213,7 +199,6 @@ labels: ["bug"]
 2. **使用任务列表**: `- [ ] 任务`
 3. **表情反应**: 在评论下方添加表情
 4. **代码建议**: 在 PR 中直接建议代码修改
-5. **模板变量**: 在 Issue 模板中使用 `{{ date }}`
 
 </details>
 
@@ -266,10 +251,8 @@ git remote set-url origin https://github.com/username/repo.git
 ```bash
 # 生成 SSH 密钥
 ssh-keygen -t ed25519 -C "your_email@example.com"
-# 添加到 ssh-agent
+# 添加到 ssh-agent  
 ssh-add ~/.ssh/id_ed25519
-# 复制公钥到 GitHub
-cat ~/.ssh/id_ed25519.pub
 ```
 
 </details>
@@ -280,16 +263,12 @@ cat ~/.ssh/id_ed25519.pub
 
 ### 🎓 官方文档
 - [GitHub Skills](https://skills.github.com/) - 互动学习
-- [GitHub Docs](https://docs.github.com/) - 完整文档
+- [GitHub Docs](https://docs.github.com/) - 完整文档  
 - [GitHub Blog](https://github.blog/) - 最新动态
 
 ### 💡 社区资源
 - [GitHub Community](https://github.com/community) - 官方社区
 - [GitHub Training](https://services.github.com/) - 培训资源
-
-### 🎥 视频教程
-- [GitHub YouTube](https://www.youtube.com/github) - 官方频道
-- [GitHub Guides](https://guides.github.com/) - 图文指南
 
 ---
 
@@ -297,15 +276,11 @@ cat ~/.ssh/id_ed25519.pub
 
 ## 🎉 开始探索！
 
-**选择你感兴趣的功能开始体验：**
-
 [![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](/../../actions)
 [![Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)](/../../settings/pages)
 [![Projects](https://img.shields.io/badge/GitHub_Projects-FFFFFF?style=for-the-badge&logo=github&logoColor=black)](/../../projects)
 [![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
 
 **✨ 让 GitHub 成为你的开发利器！**
-
-*💡 提示：将此 Issue 加入书签，随时查阅 GitHub 功能*
 
 </div>
